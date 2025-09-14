@@ -16,11 +16,18 @@ A simple Python tool to **scan QR codes from video or images** and **generate QR
 
 ## Demo Images
 
-**QR Code Generation Example:**  
-<img src="https://github.com/Gaurav14cs17/QRCode_BARCode_Gen-Scanner/blob/main/QR_Code/images/p1.png" width="400" height="400" />
-
-**QR Code Scanning Example:**  
+<table>
+<tr>
+<td align="center">
+<b>QR Code Generation</b><br>
+<img src="https://github.com/Gaurav14cs17/QRCode_BARCode_Gen-Scanner/blob/main/QR_Code/images/p1.png" width="300" height="300" />
+</td>
+<td align="center">
+<b>QR Code Scanning</b><br>
 <img src="https://github.com/Gaurav14cs17/QRCode_BARCode_Gen-Scanner/blob/main/QR_Code/images/p2.jpg" width="300" height="300" />
+</td>
+</tr>
+</table>
 
 ---
 
