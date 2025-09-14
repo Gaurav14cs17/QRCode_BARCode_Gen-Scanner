@@ -18,9 +18,6 @@ A simple Python tool to **scan QR codes from video or images** and **generate QR
 ```bash
 git clone https://github.com/yourusername/qr-scanner.git
 cd qr-scanner
-python -m venv venv
-# Activate venv:
-# Windows: venv\Scripts\activate
 pip install opencv-python qreader segno
 ````
 
