@@ -1,4 +1,3 @@
-````markdown
 # QR Scanner & Generator
 
 A simple Python tool to **scan QR codes from video or images** and **generate QR codes from text**.  
