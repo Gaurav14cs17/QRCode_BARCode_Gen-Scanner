@@ -1,3 +1,4 @@
+
 # Barcode Scanner & Generator
 
 A simple Python tool to **scan barcodes from video or images** and **generate barcodes from text**.  
@@ -36,3 +37,43 @@ A simple Python tool to **scan barcodes from video or images** and **generate ba
 git clone https://github.com/yourusername/barcode-scanner.git
 cd barcode-scanner
 pip install opencv-python pyzbar pillow ultralytics python-barcode
+````
+
+---
+
+## Usage
+
+### Generate barcode from string
+
+```bash
+python barcode_scanner.py --generate "123456789012"
+```
+
+### Scan video (webcam or file)
+
+```bash
+# Webcam
+python barcode_scanner.py --video ""
+# Video file
+python barcode_scanner.py --video "video.mp4"
+```
+
+### Scan all images in a folder
+
+```bash
+python barcode_scanner.py --images "images_folder"
+```
+
+### Combine commands
+
+```bash
+python barcode_scanner.py --generate "123456789012" --video "" --images "images_folder"
+```
+
+---
+
+## Output
+
+All annotated images, frames, and videos are saved in the folder `barcode_results/` (default).
+
+---
