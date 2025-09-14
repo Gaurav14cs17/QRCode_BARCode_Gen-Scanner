@@ -146,5 +146,4 @@ All annotated images, frames, and videos are saved in the respective folders:
 
 ---
 
-Do you want me to add that?
-```
+
