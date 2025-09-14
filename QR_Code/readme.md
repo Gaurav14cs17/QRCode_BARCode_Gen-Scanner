@@ -75,7 +75,8 @@ python qr_scanner.py --generate "Hello" --video "" --images "images_folder"
 ---
 
 ## Output
-All annotated images, frames, and videos are saved in the folder `qr_results/` (default).
+---
+ All annotated images, frames, and videos are saved in the folder `qr_results/` (default).
 ---
 
 
